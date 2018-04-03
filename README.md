@@ -5,6 +5,11 @@ This program implements a version of k-means clustering on unstructured text dat
 
 Please allow some time for the algorithm to complete and visualization to appear.
 
+Required dependencies:
+Stanford Core NLP (Simple)
+
+The particular .jar libraries used are enumerated below.
+
 ### Compile
 ```
 javac -cp stanford-corenlp-3.9.1.jar:slf4j-simple.jar:protobuf.jar:stanford-corenlp-3.9.1-models.jar Main.java
