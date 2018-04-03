@@ -1,0 +1,37 @@
+Below are the top keywords relavent to each document folder.
+
+Folder C1:
+safety
+airline
+say
+concern
+will
+flight
+Safety
+Airline
+also
+company
+
+Folder C4:
+hoof
+mouth
+disease
+say
+Mouth
+animal
+time
+since
+farmer
+also
+
+Folder C7:
+mortgage
+rate
+will
+say
+bank
+new
+--
+government
+loan
+low
