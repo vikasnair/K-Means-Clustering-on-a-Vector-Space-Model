@@ -1,4 +1,4 @@
-# BDS Homework 2
+# K-Means Clustering performed on a Vector Space Model
 ## Authors: Vikas Nair, Christopher Okorodudu, Dasha Tsenter
 
 This program implements a version of k-means clustering on unstructured text data. 
